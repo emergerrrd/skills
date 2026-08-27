@@ -1,3 +1,4 @@
+A personal collection of skills for engineering including skills for development workflows, personal learning, and software conventions shaped by experience and ideas drawn from [books](https://goodreads.com/emergerrrd) and [online media](https://emergerrrd.raindrop.page/history-74393229).
 
 ## References
 
